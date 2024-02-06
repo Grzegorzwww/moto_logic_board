@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name gw)(type Legacy)(uri ${KIPRJMOD}/gw.lib)(options "")(descr ""))
+  (lib (name licznik-rescue)(type Legacy)(uri ${KIPRJMOD}/licznik-rescue.lib)(options "")(descr ""))
+)
