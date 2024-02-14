@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name licznik)(type KiCad)(uri ${KIPRJMOD}/licznik.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "licznik")(type "KiCad")(uri "${KIPRJMOD}/licznik.pretty")(options "")(descr ""))
+  (lib (name "cd_card_TF-01A")(type "KiCad")(uri "${KIPRJMOD}/cd_card_TF-01A.pretty")(options "")(descr ""))
 )
