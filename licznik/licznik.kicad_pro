@@ -636,7 +636,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "licznik.net",
+      "netlist": "licznik3.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -666,7 +666,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "Pcbnew",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,

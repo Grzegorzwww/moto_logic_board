@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "licznik")(type "KiCad")(uri "${KIPRJMOD}/licznik.pretty")(options "")(descr ""))
   (lib (name "cd_card_TF-01A")(type "KiCad")(uri "${KIPRJMOD}/cd_card_TF-01A.pretty")(options "")(descr ""))
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/button.pretty")(options "")(descr ""))
+  (lib (name "TS_1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/button/TS_1187A-B-A-B.pretty")(options "")(descr ""))
+  (lib (name "slot_sd")(type "KiCad")(uri "${KIPRJMOD}/cd_card_TF-01A.pretty/slot_sd.pretty")(options "")(descr ""))
 )
