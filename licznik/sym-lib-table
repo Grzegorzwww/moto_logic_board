@@ -5,4 +5,5 @@
   (lib (name "sd_card")(type "KiCad")(uri "${KIPRJMOD}/sd_card.kicad_sym")(options "")(descr ""))
   (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/button/button.kicad_sym")(options "")(descr ""))
   (lib (name "sd_card_slot")(type "KiCad")(uri "${KIPRJMOD}/sd_card_slot/TF-01A/sd_card_slot.kicad_sym")(options "")(descr ""))
+  (lib (name "BM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/BM04B-SRSS-TB_LF__SN_/BM04B-SRSS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
 )

@@ -5,4 +5,5 @@
   (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/button.pretty")(options "")(descr ""))
   (lib (name "TS_1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/button/TS_1187A-B-A-B.pretty")(options "")(descr ""))
   (lib (name "slot_sd")(type "KiCad")(uri "${KIPRJMOD}/cd_card_TF-01A.pretty/slot_sd.pretty")(options "")(descr ""))
+  (lib (name "BM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/BM04B-SRSS-TB_LF__SN_.pretty")(options "")(descr ""))
 )
