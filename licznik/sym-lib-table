@@ -7,4 +7,6 @@
   (lib (name "sd_card_slot")(type "KiCad")(uri "${KIPRJMOD}/sd_card_slot/TF-01A/sd_card_slot.kicad_sym")(options "")(descr ""))
   (lib (name "BM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/BM04B-SRSS-TB_LF__SN_/BM04B-SRSS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
   (lib (name "nRF")(type "KiCad")(uri "${KIPRJMOD}/nRF/nRF.kicad_sym")(options "")(descr ""))
+  (lib (name "PRT-14417")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/PRT-14417/PRT-14417.kicad_sym")(options "")(descr ""))
+  (lib (name "battery_connector")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/PRT-14417/battery_connector.kicad_sym")(options "")(descr ""))
 )
