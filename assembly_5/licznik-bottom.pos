@@ -1,0 +1,8 @@
+### Footprint positions - created on 2024-07-25T10:21:53+0200 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                                PosX       PosY       Rot  Side
+J5        PRT-14417       SPARKFUN_PRT-14417                                  10.9860   -59.9780    0.0000  bottom
+J6        Conn_01x02_Pin  JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal    31.4460   -52.8580   90.0000  bottom
+## End

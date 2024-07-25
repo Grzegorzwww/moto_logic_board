@@ -9,4 +9,5 @@
   (lib (name "nRF")(type "KiCad")(uri "${KIPRJMOD}/nRF/nRF.kicad_sym")(options "")(descr ""))
   (lib (name "PRT-14417")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/PRT-14417/PRT-14417.kicad_sym")(options "")(descr ""))
   (lib (name "battery_connector")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/PRT-14417/battery_connector.kicad_sym")(options "")(descr ""))
+  (lib (name "mcp")(type "KiCad")(uri "${KIPRJMOD}/mcp1601/mcp.kicad_sym")(options "")(descr ""))
 )
