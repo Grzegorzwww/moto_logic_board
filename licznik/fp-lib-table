@@ -9,4 +9,5 @@
   (lib (name "nRF")(type "KiCad")(uri "${KIPRJMOD}/nRF.pretty")(options "")(descr ""))
   (lib (name "PRT-14417")(type "KiCad")(uri "${KIPRJMOD}/gps_connector/PRT-14417.pretty")(options "")(descr ""))
   (lib (name "BATTERY")(type "KiCad")(uri "${KIPRJMOD}/battery_connector/BATTERY.pretty")(options "")(descr ""))
+  (lib (name "SIL2308")(type "KiCad")(uri "${KIPRJMOD}/SIL2308.pretty")(options "")(descr ""))
 )

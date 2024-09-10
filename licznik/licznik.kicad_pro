@@ -693,9 +693,9 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "licznik_update.net",
-      "plot": "../assembly_5/gerbers/",
-      "pos_files": "../assembly_5/",
+      "netlist": "licznik_new_hardware.net",
+      "plot": "../assembly_6/",
+      "pos_files": "../assembly_6/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
